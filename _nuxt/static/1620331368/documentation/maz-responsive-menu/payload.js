@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-responsive-menu", {data:[{},{}],fetch:{},mutations:[]});

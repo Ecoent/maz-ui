@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-btn", {data:[{},{}],fetch:{},mutations:[]});

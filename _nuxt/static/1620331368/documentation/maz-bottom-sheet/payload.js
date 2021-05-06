@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-bottom-sheet", {data:[{},{}],fetch:{},mutations:[]});

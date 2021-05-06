@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-carousel", {data:[{},{}],fetch:{},mutations:[]});

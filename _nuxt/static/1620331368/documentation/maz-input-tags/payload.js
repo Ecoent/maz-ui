@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-input-tags", {data:[{},{}],fetch:{},mutations:[]});

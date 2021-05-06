@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-phone-number-input", {data:[{},{}],fetch:{},mutations:[]});

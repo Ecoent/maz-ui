@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-read-more", {data:[{},{}],fetch:{},mutations:[]});

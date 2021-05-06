@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/documentation/maz-draggable-list", {data:[{},{}],fetch:{},mutations:[]});
